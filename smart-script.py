@@ -16,8 +16,8 @@ class zabbix_api:
                                "jsonrpc": "2.0", 
                                "method": "user.login", 
                                "params": { 
-                                          "user": "wsupport", 
-                                          "password": "DataS@886secx" 
+                                          "user": "", 
+                                          "password": "" 
                                           }, 
                                "id": 0 
                                }) 
